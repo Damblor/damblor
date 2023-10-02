@@ -4,7 +4,7 @@
 
 ## I'm Peter - aka Damblor
 
-### Third-year computer science student
+### Fourth-year computer science student
 
 ## About me
 
