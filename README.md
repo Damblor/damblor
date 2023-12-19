@@ -11,7 +11,7 @@
 I create useless projects that I abandon after 2 weeks. Besides, I love books, manga, the Star Wars universe and Asian food. I started my IT adventure with programming, but for some time now I've been more interested in the topic of cyber security. I'm also a big fan of strategy games, especially Hearts of Iron IV and chess.
 
 > 🌱 I'm currently learning Blazor and Norwegian\
-> 💬 Quote: It only becomes a mistake when you fail to correct it - Grand Admiral Thrawn\
+> 💬 Quote: Failure to act always brings consequences. But sometimes, those consequences can be turned to on - Grand Admiral Thrawn\
 > 📚 Favourite book series: Stormlight Archive and The Witcher\
 > ⚡ Fun fact: Honeybees navigate using the sun as their compass
 
